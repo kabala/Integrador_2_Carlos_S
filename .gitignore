@@ -3,7 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# dotenv files
+# Tutorial local (no publicar)
+Integrador_2_Carlos_S/TUTORIAL.md
+
 .env
 
 # User-specific files
